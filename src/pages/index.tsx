@@ -1,9 +1,6 @@
-const Home = () => {
-  return (
-    <div>
-      <p>HomePage of my Next APP!</p>
-    </div>
-  );
-};
+import Layout from '@/components/layout/Layout';
+import Head from 'next/head';
 
-export default Home;
+const HomePage = () => <Layout title="Home Page">HomePage</Layout>;
+
+export default HomePage;

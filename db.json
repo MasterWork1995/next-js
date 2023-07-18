@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "JavaScript",
+      "description": "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat."
+    },
+    {
+      "id": "2",
+      "title": "TypeScript",
+      "description": "TypeScript is a syntactic superset of JavaScript which adds static typing. This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add types. TypeScript being a 'Syntactic Superset' means that it shares the same base syntax as JavaScript, but adds something to it."
+    },
+    {
+      "id": "3",
+      "title": "NodeJs",
+      "description": "js (Node) is an open source, cross-platform runtime environment for executing JavaScript code. Node is used extensively for server-side programming, making it possible for developers to use JavaScript for client-side and server-side code without needing to learn an additional language."
+    },
+    {
+      "id": "4",
+      "title": "NextJs",
+      "description": "Background. Next. js is a React framework that enables several extra features, including server-side rendering and generating static websites. React is a JavaScript library that is traditionally used to build web applications rendered in the client's browser with JavaScript."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.header {
+  width: 100%;
+  padding: 10px;
+  background-color: #061163;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+
+    .item {
+      a {
+        color: white;
+        padding: 10px;
+        transition: color 400ms ease-in-out;
+        font-weight: 600;
+        font-size: 18px;
+      }
+
+      a:hover,
+      &.active a {
+        color: yellowgreen;
+      }
+    }
+  }
+}
